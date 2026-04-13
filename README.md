@@ -35,9 +35,11 @@ I build production-ready AI systems by combining scalable data engineering with 
 ---
 ## 🚀 Featured Projects
 
-### 🔹 RAG Chat System
-Production-ready AI chatbot using LangChain, FAISS, and LLMs  
-➡️ Document loading → Chunking → Embeddings → Retrieval → Response generation  
+### 🔹 RAG Chat System (Production-Ready)
+
+Built an end-to-end Retrieval-Augmented Generation (RAG) system exposed via FastAPI
+➡️ Document ingestion → Chunking → Embeddings → FAISS retrieval → OpenAI-powered response generation
+➡️ Includes source attribution, latency tracking, and robust API design
 
 ### 🔹 AI Support Agent
 Tool-calling + memory-enabled support bot with dynamic workflows  
