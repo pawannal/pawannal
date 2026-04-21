@@ -4,6 +4,10 @@
 
 I focus on building **practical AI applications** by combining data engineering fundamentals with modern Generative AI tools.
 
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![GenAI](https://img.shields.io/badge/Focus-GenAI-green)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-orange)
+
 ---
 
 ## 🔥 What I'm Working On
