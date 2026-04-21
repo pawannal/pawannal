@@ -1,66 +1,73 @@
 # 👋 Hi, I'm Pawan Vannal
 
-🚀 GenAI Engineer (Data Engineering Background)
+🚀 Data Engineer → Building GenAI Systems
 
-I build production-ready AI systems by combining scalable data engineering with modern Generative AI.
+I focus on building **practical AI applications** by combining data engineering fundamentals with modern Generative AI tools.
 
 ---
 
-## 🔥 What I'm Building (2026 Focus)
-- 🤖 RAG-based AI applications (LangChain + Vector DBs)
-- 🧠 AI Agents & Multi-Agent Systems (LangGraph, MCP)
-- ⚡ FastAPI-based GenAI backends (production-ready APIs)
-- 📊 Data-driven AI systems using Azure, Databricks & PySpark
+## 🔥 What I'm Working On
+
+* 🤖 RAG-based AI applications (LangChain + Vector DBs)
+* 🧠 AI Agent systems with tool execution (LangGraph)
+* ⚡ FastAPI-based AI backends (API-first design)
 
 ---
 
 ## 🧠 Tech Stack
 
 ### 🚀 Generative AI
-- RAG (Retrieval-Augmented Generation)
-- AI Agents, Tool Calling, Memory Systems
-- LangChain, LangGraph
-- Vector Databases (FAISS, Chroma)
+
+* Retrieval-Augmented Generation (RAG)
+* AI Agents (Tool Calling, Memory)
+* LangChain, LangGraph
+* Vector Databases (FAISS)
 
 ### ⚙️ Backend & APIs
-- FastAPI
-- Python
-- REST APIs
+
+* FastAPI
+* Python
+* REST APIs
+* Pydantic
 
 ### ☁️ Data Engineering
-- Azure Data Factory
-- Azure Databricks
-- PySpark
-- Delta Lake
+
+* Azure Data Factory
+* Azure Databricks
+* PySpark
+
 ---
+
 ## 🚀 Featured Projects
 
-### 🔹 RAG Chat System (Production-Ready)
+### 🔹 RAG Chat System
 
-Built an end-to-end Retrieval-Augmented Generation (RAG) system exposed via FastAPI
-➡️ Document ingestion → Chunking → Embeddings → FAISS retrieval → OpenAI-powered response generation
-➡️ Includes source attribution, latency tracking, and robust API design
+* End-to-end RAG pipeline (chunking → embeddings → FAISS → LLM)
+* Context-aware responses using OpenAI
+* FastAPI integration with structured responses
 
-### 🔹 AI Support Agent
-Tool-calling + memory-enabled support bot with dynamic workflows  
-
-### 🔹 Coding Agent
-Agent system inspired by Devin (multi-agent architecture)
+🔗 https://github.com/pawannal/rag-chat-system
 
 ---
+
+### 🔹 AI Agent System
+
+* LangGraph-based agent with LLM-driven tool selection
+* Implemented tools like calculator & text processing
+* API-based interaction using FastAPI
+
+🔗 https://github.com/pawannal/ai-agent-system
+
+---
+
 ## 🎯 Current Focus
-- Building production-grade GenAI systems  
-- Learning advanced Agent architectures (MCP, LangGraph)  
-- Scaling AI systems with real-world data pipelines  
 
----
-
-## 📈 Why Me?
-- Strong foundation in **Data Engineering (2+ years)**
-- Transitioning into **GenAI with production mindset**
-- Focused on **real-world, deployable AI systems**
+* Improving agent workflows using LangGraph
+* Combining RAG + Agents into real-world systems
+* Building deployable GenAI APIs
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/pawanvannal/
+
+* LinkedIn: https://www.linkedin.com/in/pawanvannal/
